@@ -1,11 +1,3 @@
-# array manipulating I
+# node js test template for Webcamp only
 
-### โจทย์
-ให้เขียน function ที่จะรับ array เข้าไป และทำการบวกเลขในตำแหน่ง index ที่เป็นเลขคู่เท่านั้น
-
-### ตัวอย่าง
-#### input
-`[3, 4, 3, 1, 5, 32, 2]`
-
-#### output
-`13`
+### full of stupidness coding here don't use it
