@@ -1,14 +1,4 @@
 {
   "tests": [
-    {
-      "name": "Output 1",
-      "setup": "npm install",
-      "run": "npm test",
-      "input": "[45, 4, 9, 16, 25, 85, 3, 7, 9]",
-      "output": "91",
-      "comparison": "exact",
-      "timeout": 5,
-      "points": 1
-    }
   ]
 }
