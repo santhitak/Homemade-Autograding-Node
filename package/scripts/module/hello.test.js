@@ -1,4 +1,4 @@
-const hello = require("./hello");
+const hello = require("../../../hello");
 
 var test1 = [45, 4, 9, 16, 25, 85, 3, 7, 9];
 var test2 = [45, 4, 9, 16, 25, 1, 14, 19, 32];

@@ -8,4 +8,6 @@ function hello(arr) {
   return sum;
 }
 
+console.log(hello([5, 5, 8, 84, 5, 4, 8, 48, 7, 7, 4]));
+
 module.exports = hello;
