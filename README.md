@@ -1,14 +1,11 @@
-# Autograding Example: Node
-This example project is written in Node, and tested with Jest.
+# array manipulating I
 
-### The assignment
-The tests are failing right now because we're not returning the correct string. Fixing this up will make the tests green.
+### โจทย์
+ให้เขียน function ที่จะรับ array เข้าไป และทำการบวกเลขในตำแหน่ง index ที่เป็นเลขคู่เท่านั้น
 
-### Setup command
-`npm install`
+### ตัวอย่าง
+#### input
+`[3, 4, 3, 1, 5, 32, 2]`
 
-### Run command
-`npm test`
-
-### Notes
-- 
+#### output
+`13`
