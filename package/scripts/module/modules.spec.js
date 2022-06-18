@@ -6,7 +6,7 @@ var test3 = [5, 4, 11 + 2, 19, 55];
 var test4 = [5, 4, 3, 19, -9, 32, 2];
 
 test("output 1", () => {
-  expect(hello(test1)).toBe(91);
+  expect(hello(test1)).toBe(57);
 });
 
 test("output 2", () => {
@@ -14,7 +14,7 @@ test("output 2", () => {
 });
 
 test("output 3", () => {
-  expect(hello(test3)).toBe(50);
+  expect(hello(test3)).toBe(73);
 });
 
 test("output 4", () => {
