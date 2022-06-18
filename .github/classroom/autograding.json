@@ -9,36 +9,6 @@
       "comparison": "exact",
       "timeout": 5,
       "points": 1
-    },
-    {
-      "name": "Output 2",
-      "setup": "npm install",
-      "run": "npm test",
-      "input": "[45, 4, 9, 16, 25, 1, 14, 19, 32]",
-      "output": "125",
-      "comparison": "exact",
-      "timeout": 5,
-      "points": 1
-    },
-    {
-      "name": "Output 3",
-      "setup": "npm install",
-      "run": "npm test",
-      "input": "[5, 4, 11 + 2, 19, 32]",
-      "output": "50",
-      "comparison": "exact",
-      "timeout": 5,
-      "points": 1
-    },
-    {
-      "name": "Output 4",
-      "setup": "npm install",
-      "run": "npm test",
-      "input": "[5, 4, 3, 19, -9, 32, 2]",
-      "output": "1",
-      "comparison": "exact",
-      "timeout": 5,
-      "points": 1
     }
   ]
 }
