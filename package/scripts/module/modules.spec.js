@@ -1,22 +1,7 @@
 const hello = require("../../../hello");
 
-var test1 = [11, 4, 9, 16, 25, 85, 3, 7, 9];
-var test2 = [45, 4, 9, 7, 25, 1, 14, 19, 32];
-var test3 = [5, 4, 11 + 2, 19, 55];
-var test4 = [5, 4, 3, 19, -9, 32, 2];
+var test1 = "Hello World";
 
 test("output 1", () => {
-  expect(hello(test1)).toBe(57);
-});
-
-test("output 2", () => {
-  expect(hello(test2)).toBe(125);
-});
-
-test("output 3", () => {
-  expect(hello(test3)).toBe(73);
-});
-
-test("output 4", () => {
-  expect(hello(test4)).toBe(1);
+  expect(hello(test1)).toBe("Hello World");
 });
